@@ -9,7 +9,6 @@
   * [Links Useful links]
   * [History]
 
-  * [Contribute Why contribute?]
   * [Licensing License Information]
 
 *Contributors*
