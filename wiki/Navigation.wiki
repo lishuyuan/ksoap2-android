@@ -6,10 +6,3 @@
   * [Cookies]
   * [NeedHelp You need help?]
   * [Links Useful links]
-  * [History]
-
-
-*Contributors*
-   
-  * [HowContribute How to contribute]
-  * [WorkWithTheSourceCode Working with the source code]
