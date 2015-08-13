@@ -1,8 +1,4 @@
 *General*
 
-  * [HowToUse How to use]
-  * [ProjectsUsingKsoap2Android]
   * [CodingTipsAndTricks Coding Tips and Tricks]
   * [Cookies]
-  * [NeedHelp You need help?]
-  * [Links Useful links]
