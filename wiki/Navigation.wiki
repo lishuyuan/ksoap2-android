@@ -1,4 +1,0 @@
-*General*
-
-  * [CodingTipsAndTricks Coding Tips and Tricks]
-  * [Cookies]
